@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python Games
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Iconic Games Like Tetris 
-- 📫 You Can Reach me on Discord or My Gm
+- 📫 You Can Reach me on Discord or My Gmail
 
 
 <!---
